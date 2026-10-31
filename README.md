@@ -11,12 +11,12 @@
 
 ---
 
-**off the keyboard:** art · music · books · bunnies
-
-**on the keyboard:** problem solving in C++ and Python
+**on the keyboard:** problem solving in C++ and Python · 
 i like to build things i want to use
 
 **currently building:** [Moodie](https://github.com/merelyacryptid/moodie) - a mood tracker and journal that finds patterns between your activities and how you feel
+
+**off the keyboard:** art · music · books · bunnies
 
 ---
 
