@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm sarah 🐇</h1>
 
 <p align="center">
-  <i>i like finding neat solutions to puzzling problems</i>
+  <i>i like finding neat and creative solutions to problems</i>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 **off the keyboard:** art · music · books · bunnies
 
-**on the keyboard:** problem solving in C++ and Python, and exploring
-creative projects in TypeScript
+**on the keyboard:** problem solving in C++ and Python
+i like to build things i want to use
 
 **currently building:** [Moodie](https://github.com/merelyacryptid/moodie) - a mood tracker and journal that finds patterns between your activities and how you feel
 
