@@ -36,7 +36,7 @@
 ### github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merelyacryptid&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged&hide_border=true&bg_color=00000000&title_color=4a3b52&icon_color=4a3b52&text_color=7a6a85" />
+  <img src="https://github-readme-stats-gules-five-27.vercel.app/api?username=merelyacryptid&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged&hide_border=true&bg_color=00000000&title_color=4a3b52&icon_color=4a3b52&text_color=7a6a85" />
 </p>
 
 ---
